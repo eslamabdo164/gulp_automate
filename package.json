@@ -1,0 +1,17 @@
+{
+  "name": "eslam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-open": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC"
+}
